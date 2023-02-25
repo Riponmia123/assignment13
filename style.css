@@ -1,0 +1,32 @@
+.box{
+    font-size: 20px;
+}
+a{
+    color: wheat;
+    background-color: gray;
+}
+a:link{
+    color: red;
+}
+a:hover{
+    color: green;
+    text-decoration: none;
+    font-size: 2em;
+}
+a:active{
+    background-color: #fff;
+    color: black;
+}
+a:visited{
+    background-color: #fff;
+    background-color: pink;
+}
+/* .box{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+
+.box:active{
+    background-color: black;
+} */
